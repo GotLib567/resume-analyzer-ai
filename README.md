@@ -1,4 +1,4 @@
-# Resume Anylizer AI React App
+# Resume Analyzer AI React App
 
 This is pet project app inspired by Javascript's Mastery [ai-resume-analyzer](https://github.com/adrianhajdin/ai-resume-analyzer)
 
